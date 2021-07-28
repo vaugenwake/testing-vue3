@@ -1,4 +1,4 @@
-# testing-bitch
+# testing
 
 ## Project setup
 ```
